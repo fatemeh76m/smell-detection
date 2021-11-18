@@ -11,7 +11,7 @@ CSV_PATH = './dataset.csv'
 BASE_FOLDER_NAME = './repositories/'
 OUTPUT_FOLDER_NAME = './outputs'
 DESIGNATE_PATH = '~/Downloads/DesigniteJava.jar'
-REPO_LIMIT = 5
+REPO_LIMIT = 100
 
 
 class DesigniteStatistics(object):
